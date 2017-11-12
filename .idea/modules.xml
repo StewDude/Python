@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FindEmptyFilmDirs/.idea/FindEmptyFilmDirs.iml" filepath="$PROJECT_DIR$/../FindEmptyFilmDirs/.idea/FindEmptyFilmDirs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FizzBuzz/.idea/FizzBuzz.iml" filepath="$PROJECT_DIR$/../FizzBuzz/.idea/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LibreOffice/.idea/LibreOffice.iml" filepath="$PROJECT_DIR$/../LibreOffice/.idea/LibreOffice.iml" />
+      <module fileurl="file://$USER_HOME$/PyCharmProjects/ListDirs/.idea/ListDirs.iml" filepath="$USER_HOME$/PyCharmProjects/ListDirs/.idea/ListDirs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LoseDoubleDots/.idea/LoseDoubleDots.iml" filepath="$PROJECT_DIR$/../LoseDoubleDots/.idea/LoseDoubleDots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MariaDB/.idea/MariaDB.iml" filepath="$PROJECT_DIR$/../MariaDB/.idea/MariaDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MoveDirs.iml" filepath="$PROJECT_DIR$/.idea/MoveDirs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MoveFiles/.idea/MoveFiles.iml" filepath="$PROJECT_DIR$/../MoveFiles/.idea/MoveFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regex_test/.idea/regex_test.iml" filepath="$PROJECT_DIR$/../regex_test/.idea/regex_test.iml" />
+    </modules>
+  </component>
+</project>
